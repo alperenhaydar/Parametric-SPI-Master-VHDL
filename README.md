@@ -7,7 +7,7 @@ This project presents the design and simulation of a parametric SPI Master in VH
 
 The functionality of the SPI Master is verified using a loopback-based testbench, where transmitted data is internally routed back to the receiver.
 
-<img width="1154" height="691" alt="image" src="https://github.com/user-attachments/assets/35ef9045-47dd-4633-b59b-92b2f43e74fd" />
+<img width="1111" height="647" alt="image" src="https://github.com/user-attachments/assets/a362bffb-2aea-44ab-8884-cbec9617c0a1" />
 
 
 ⚙️ Features
