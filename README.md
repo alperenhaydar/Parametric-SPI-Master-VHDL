@@ -67,3 +67,6 @@ Verifies received data using assertions
 Loopback testing verifies internal data flow and timing consistency
 
 External SPI slave integration can be considered as future work for full system validation
+
+<img width="1043" height="410" alt="image" src="https://github.com/user-attachments/assets/e27424c7-f4b1-49ae-a5fe-192f82f64663" />
+
