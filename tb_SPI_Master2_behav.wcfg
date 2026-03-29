@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_SPI_Master2_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_SPI_Master2" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="16.000001 us"></ZoomEndTime>
+      <Cursor1Time time="16.000000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="191"></NameColumnWidth>
+      <ValueColumnWidth column_width="80"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_SPI_Master2/s_Clk" type="logic">
+      <obj_property name="ElementShortName">s_Clk</obj_property>
+      <obj_property name="ObjectShortName">s_Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_Rst_L" type="logic">
+      <obj_property name="ElementShortName">s_Rst_L</obj_property>
+      <obj_property name="ObjectShortName">s_Rst_L</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_TX_Byte" type="array">
+      <obj_property name="ElementShortName">s_TX_Byte[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_TX_Byte[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_TX_DV" type="logic">
+      <obj_property name="ElementShortName">s_TX_DV</obj_property>
+      <obj_property name="ObjectShortName">s_TX_DV</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_TX_Ready" type="logic">
+      <obj_property name="ElementShortName">s_TX_Ready</obj_property>
+      <obj_property name="ObjectShortName">s_TX_Ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_RX_Byte" type="array">
+      <obj_property name="ElementShortName">s_RX_Byte[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_RX_Byte[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_RX_DV" type="logic">
+      <obj_property name="ElementShortName">s_RX_DV</obj_property>
+      <obj_property name="ObjectShortName">s_RX_DV</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_SPI_Clk" type="logic">
+      <obj_property name="ElementShortName">s_SPI_Clk</obj_property>
+      <obj_property name="ObjectShortName">s_SPI_Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_SPI_CS" type="logic">
+      <obj_property name="ElementShortName">s_SPI_CS</obj_property>
+      <obj_property name="ObjectShortName">s_SPI_CS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_SPI_MOSI" type="logic">
+      <obj_property name="ElementShortName">s_SPI_MOSI</obj_property>
+      <obj_property name="ObjectShortName">s_SPI_MOSI</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_SPI_Master2/s_SPI_MISO" type="logic">
+      <obj_property name="ElementShortName">s_SPI_MISO</obj_property>
+      <obj_property name="ObjectShortName">s_SPI_MISO</obj_property>
+   </wvobject>
+</wave_config>
